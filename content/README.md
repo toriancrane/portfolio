@@ -10,7 +10,7 @@ This page holds examples of technical content that I have authored.
 - [Creating Resources on Azure Tutorial](https://www.pulumi.com/tutorials/creating-resources-azure/)
 
 ## Amazon Web Services
-- [AWS Service Catalog Tools - Invoking Lambda Functions Workshop Tutorial](https://service-catalog-tools-workshop.com/every-day-use/400-invoking-a-lambda-function.html)
+- [AWS Service Catalog Tools Workshop - Invoking Lambda Functions Tutorial](https://service-catalog-tools-workshop.com/every-day-use/400-invoking-a-lambda-function.html)
 
 ## Personal Projects
 - [Chargebee Lambda Integration Tutorial](https://toriancrane.github.io/chargebee-lambda-integration/)
