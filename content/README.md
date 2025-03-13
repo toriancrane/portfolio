@@ -7,7 +7,6 @@ This page holds examples of technical content that I have authored.
 ### Pulumi Fundamentals
 - [Pulumi CLI Authentication Tutorial](https://www.pulumi.com/tutorials/cli-authentication/)
 - [Move Resources Between Stacks Tutorial](https://www.pulumi.com/tutorials/move-resources-between-stacks/)
-- 
 - [Reference AWS Resources Across Stacks](https://www.pulumi.com/tutorials/stack-outputs-refs-aws/)
     - [Tutorial video](https://youtu.be/Iqbo5Pa97JQ?si=0OScWm7bnGmMHgZU) 
 
